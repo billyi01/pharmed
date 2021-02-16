@@ -1,0 +1,6 @@
+﻿* {
+  font-family: Microsoft JhengHei !important;
+}
+.book .book-body .page-wrapper .page-inner {
+  max-width: 95% !important;
+}
