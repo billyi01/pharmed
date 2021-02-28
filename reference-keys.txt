@@ -42,7 +42,11 @@ tfda-atc
 藥品藥理治療分類-atc-code
 tfda-ahfsdi
 藥品藥理治療分類-ahfsdi-code
+tfda-atcahfs
+combined-atcahfs-lookup-table
 frequently-used-links
 醫藥參考
 藥物辨識
+memo
 daily
+code
