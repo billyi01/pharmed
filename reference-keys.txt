@@ -930,6 +930,8 @@ ixazomib-dexamethasone-rituximab-idr
 bendamustine-rituximab-2
 single-agent-regimens-17
 dexamethasone-1
+common-terminology-criteria-for-adverse-events
+ctcae-v5.0
 prostate-cancer-1
 staging-system-for-prostate-cancer
 definitions-for-t-n-m---prostate-cancer
