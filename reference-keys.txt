@@ -946,6 +946,15 @@ systemic-therapy-for-m1-castration-resistant-prostate-cancer-crpc
 principles-of-genetics---prostate-cancer
 germline-testing
 somatic-tumor-testing
+principles-of-imaging---prostate-cancer
+goals-of-imaging
+efficacy-of-imaging
+plain-radiography
+ultrasound
+bone-imaging
+computed-tomography
+magnetic-resonance-imaging
+positron-emission-tomography-pet
 principles-of-active-surveillance-and-observation
 advantages-of-active-surveillance
 disadvantages-of-active-surveillance
