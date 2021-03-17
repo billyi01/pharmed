@@ -982,5 +982,6 @@ frequently-used-links
 藥物辨識
 藥品給付
 memo
-daily
-code
+daily-tasks
+print-medical-orders
+brevity-codes
