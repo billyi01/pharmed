@@ -6,6 +6,7 @@ carboplatin
 cetuximab
 fluorouracil
 ipilimumab
+irinotecan
 nivolumab
 oxaliplatin
 paclitaxel
@@ -84,7 +85,7 @@ advanced-disease---single-agent-regimens
 carmustine-1
 procarbazine
 temozolomide
-irinotecan
+irinotecan-1
 bevacizumab-1
 breast-cancer
 neoadjuvant-therapy---combination-regimens
@@ -225,7 +226,7 @@ cisplatin-pemetrexed
 single-agent-regimens-4
 docetaxel-2
 paclitaxel-3
-irinotecan-1
+irinotecan-2
 topotecan
 pemetrexed-1
 gemcitabine-3
@@ -981,7 +982,7 @@ weekly
 bolus-or-infusional-5-fu-bevacizumab
 capecitabine-8
 capecitabine-bevacizumab
-irinotecan-2
+irinotecan-3
 irinotecan-cetuximab-1
 irinotecan-panitumumab
 irinotecan-bevacizumab-1
